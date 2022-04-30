@@ -6,9 +6,9 @@ Schwarzschild black hole simulation and ray tracing. This was a final project do
 </p>
 
 <p align="center">
-<img src="https://github.com/James11222/radiolab_repo/blob/main/different_bs.png?raw=true" width=50% /> 
+<img src="https://github.com/darbymccauley/Black_Hole_Sims/blob/main/different_bs.png?raw=true" width=50% /> 
 </p>
 
 <p align="center">
-<img src="https://github.com/James11222/radiolab_repo/blob/main/cool.png?raw=true" width=50% /> 
+<img src="https://github.com/darbymccauley/Black_Hole_Sims/blob/main/cool.png?raw=true" width=50% /> 
 </p>
